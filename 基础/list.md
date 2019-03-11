@@ -14,7 +14,7 @@ list.insert(len(list),'admin')
 #打印list
 print(list)
 #['hello', 'wrold', 'admin']
-#如果你输入的下标大于list长度则会自动查到list长度的位置
+#如果你输入的下标大于list长度则会自动插入到list长度的位置
 #即list.insert(len(list),'admin')
 list.insert(1000,'admin')
 print(list[3]) #admin
