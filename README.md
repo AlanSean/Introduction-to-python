@@ -4,4 +4,4 @@
 
 ## 目录
 
-[基础]('https://github.com/AlanSean/Introduction-to-python/基础/pyhton学习.md')
+[基础](https://github.com/AlanSean/Introduction-to-python/基础/pyhton学习.md)
