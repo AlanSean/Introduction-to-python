@@ -35,7 +35,8 @@ while flag:
         flag = False
     else:
         num = num +1
-#flag = Ture num =2
+        break
+#flag = Ture num =1
 
 #continue 结束本轮循环执行下一次
 num = 0
