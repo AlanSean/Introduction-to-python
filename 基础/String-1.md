@@ -1,8 +1,3 @@
-#!usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-
 
 
 ##String运算符
